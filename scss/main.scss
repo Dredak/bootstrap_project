@@ -10,7 +10,7 @@ body {
 }
 h5 {
     color: white;
-    font-weight: 800;
+    font-weight: 500;
 }
 .navbar-toggler h5{
     display: inline-block;
@@ -20,10 +20,18 @@ h5 {
     margin: 0px;
     padding: 0px;
     text-align: left;
+    a {
+        text-decoration: none;
+        color: white;
+        font-weight: 500;
+    }
 }
-.navbarMax h5{
+.navbarMax a{
     display: none;
-
+    text-decoration: none;
+    color: white;
+    padding: 0px 1rem;
+    font-weight: 500;
 }
 header img{
 margin-top: 7%;
@@ -147,7 +155,7 @@ footer{
     .nacvbar-togle .button {
         display: none;
     }
-    .navbarMax h5{
+    .navbarMax a{
         display: inline;
     }
     footer {
