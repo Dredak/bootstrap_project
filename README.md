@@ -1,2 +1,2 @@
 # bootstrap_project
-<img src="./images/Bootstrap"/>
+<img src="./images/Bootstrap">
